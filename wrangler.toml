@@ -1,6 +1,6 @@
-name = "cfproxy"
+name = "tryproxy"
 type = "javascript"
-compatibility_date = "2025-05-16"
+compatibility_date = "2025-05-18"
 main = "index.js"
 
 # If you want Cloudflare to auto‑route your custom domain:
